@@ -5,7 +5,8 @@ package com.demo.mvc.config;
 
 //imports necessários
 
-@Configuration
+@Configuration 
+
 public class DataConfiguration {
 
 	@Bean
